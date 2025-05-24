@@ -1,4 +1,4 @@
-# This script seeds the database with initial data for testing purposes.
+# lib/db/seed.py
 def seed(conn):
     cursor = conn.cursor()
     cursor.execute("INSERT INTO authors (name) VALUES ('John Doe')")

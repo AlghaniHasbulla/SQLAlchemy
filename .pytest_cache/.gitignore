@@ -1,0 +1,17 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.env
+*.db
+.DS_Store
+*.log
+*.sqlite3
+
+# VS Code
+.vscode/
+*.code-workspace

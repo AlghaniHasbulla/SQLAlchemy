@@ -1,0 +1,4 @@
+[
+  "tests/test_author.py::test_author_articles",
+  "tests/test_author.py::test_author_save"
+]
